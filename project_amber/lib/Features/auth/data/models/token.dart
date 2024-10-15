@@ -1,0 +1,5 @@
+class Token {
+  static String token = '';
+  static String userToken = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE3MTk4MDYyODIsImV4cCI6MTcxOTgwOTg4MiwibmJmIjoxNzE5ODA2MjgyLCJqdGkiOiJ1S0x2UndjWWRFQWlERkgzIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ._U3FcJpcZss6GiLq_DS-PgvdzgnScNNcOhLTBlDX-HQ';
+
+}
